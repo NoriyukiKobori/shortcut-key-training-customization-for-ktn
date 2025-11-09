@@ -1,4 +1,4 @@
-# shortcut_key_training_customization_for_kintone
+# shortcut-key-training-customization-for-ktn
 kintone show+case unlimited 2022 で発表したカスタマイズです。  
 
 # Description
